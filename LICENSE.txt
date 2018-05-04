@@ -1,2 +1,2 @@
 # LICENSE
-license
+license 2.0
